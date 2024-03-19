@@ -1,0 +1,2 @@
+6. Pokaż działanie plików wejść/wyjściowych
+Utwórz plik in.txt, w którym podasz napiszesz swoje imię i nazwisko i przepisz to do pliku out.txt.

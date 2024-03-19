@@ -1,0 +1,2 @@
+7. Pokaż, jak pobierać dane z pliku
+Pobierz napis z pliku in.txt i go wypisz od tyłu;
